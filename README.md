@@ -23,7 +23,8 @@ Córdoba, Argentina**
 
 **Cross Industry Solutions**
 
-- We bring complex data processing and infrastructure solutions and services along various industries to cater to our clients’ needs.  
+We bring complex data processing and infrastructure solutions and services along various industries to cater to our clients’ needs.  
+
 *Business Intelligence*  
 *Advanced Analytics with R y Python*  
 *Machine Learning models*  
